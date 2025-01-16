@@ -1,5 +1,5 @@
 <div align= 'center'>
-🚀 Passionate about crafting the web with creativity and code.<br>💡 A web development enthusiast pursuing digital mastery.<br>🛠️ Tech stack: React, Node.js, MongoDB, Express.<br>🌟 Turning caffeine and logic into digital wonders!<br>
+🚀 Discovering the art of coding, where each line weaves a story of logic and creativity.<br>💡 Committed to crafting engaging and user-focused digital spaces.<br>🌟 Turning caffeine and logic into digital wonders!<br>
 </div>
 
 
@@ -16,7 +16,7 @@
 <div align='center'>
   
 ![](https://github-readme-stats.vercel.app/api?username=NehaPawar12&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NehaPawar12&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NehaPawar12&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaPawar12&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
